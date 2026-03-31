@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Social Spark</string>
+    <string name="time_hint">e.g., Morning, Afternoon, Dinner</string>
+    <string name="get_suggestion">Get Social Spark</string>
+    <string name="reset">Reset</string>
+    <string name="default_suggestion">Your social spark will appear here...</string>
+</resources>
