@@ -7,8 +7,8 @@ Course: Introduction to Mobile Application Development
 Subject: IMAD5112
 
 Links
-GitHub Repository: [Repository URL]
-YouTube Video: [YouTube Video Link]
+GitHub Repository: [ https://github.com/jarrydjooste1-alt/IMAD5112-assignment-1-]
+YouTube Video: [https://youtube.com/shorts/Sat2ACMQm_s?si=kmOIvz_htnRo3244]
 
 Project Overview
 
@@ -56,11 +56,9 @@ Screenshots
 App Screenshots:
 (Replace `path_to_screenshot_X.png` with your real images)
 
-![Screenshot 1](path_to_screenshot_1.png)
+![Screenshot 1](I added screenshots to my main)
 This is the main feed, showing posts from the whole community.
 
-![Screenshot 2](path_to_screenshot_2.png)
-Here’s your profile—see your info and everything you’ve posted so far.
 
 Video Demo:
 You can watch how the app works here: [YouTube Video Link].
